@@ -1,4 +1,4 @@
-*fun-project 1 AI Python*
+*Fun project 1 AI Python*
 #README.md for Mini Quiz App
 
 ### **Mini Quiz App: Profesi yang cocok untukmu di Tech Industry!**
