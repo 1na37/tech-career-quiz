@@ -1,5 +1,4 @@
-*Fun project 1 AI Python*
-#README.md for Mini Quiz App
+*Fun project 1 for AI Python Bootcamp*
 
 ### **Mini Quiz App: Profesi yang cocok untukmu di Tech Industry!**
 Aplikasi kuis interaktif yang dibangun dengan Streamlit untuk membantu kamu menemukan profesi di industri teknologi yang paling sesuai dengan kepribadian dan skill-mu.
